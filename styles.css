@@ -8,9 +8,11 @@ th{
 	color:white;
 	width:1%;
 	border:2px solid black;
-	align-items:left;
+	text-align:left;
 }
 td{
 	border:2px solid black;
+}
+.con{
 	text-align:right;
 }
